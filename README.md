@@ -1,1 +1,1 @@
-# umsl
+# Demo repository for a website
